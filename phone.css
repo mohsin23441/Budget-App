@@ -1,0 +1,44 @@
+body {
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav {
+    width: 150%;
+}
+
+
+.first input {
+    width: 250px;
+}
+
+.left-c input {}
+
+.Sec-D {
+    width: 150%;
+}
+
+.mainsec-E {
+    width: 150%;
+}
+
+.sec-E {
+    flex-direction: column;
+    text-align: center;
+}
+
+.mainForDes {
+    flex-direction: column;
+}
+
+.Sec-D {
+    flex-direction: column;
+    width: 100%;
+    margin: auto
+}
+
+.mainsec-E {
+    margin: auto;
+    width: 100%;
+}

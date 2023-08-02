@@ -1,0 +1,188 @@
+body {
+    background: linear-gradient(267.35deg, #009FFD 1.9%, #00F190 97.65%);
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+    background-color: rgba(0, 0, 0, 0.477);
+
+}
+
+.logo img {
+    height: 30px;
+    margin: 30px 0px 0px 40px;
+}
+
+.first {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input input {
+    height: 30px;
+    width: 500px;
+    border-radius: 23px;
+    text-align: center;
+}
+
+
+.btn {
+    width: 60px;
+    margin: auto;
+
+}
+
+button {
+    margin: auto;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border: 2px solid gray;
+    border-radius: 13px;
+    background: linear-gradient(272.19deg, #00F190 1.84%, #009FFD 98.28%);
+}
+
+.btn :hover {
+    transition: 12s ease;
+    background: linear-gradient(267.35deg, #009FFD 1.9%, #00F190 97.65%);
+}
+
+.budget h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.sec-c {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px 12px;
+}
+
+.left-c {
+    width: 90%;
+
+}
+
+
+
+.form-group {
+
+    width: 60%;
+    margin: 23px auto;
+}
+
+.mainForDes {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    border: 3px solid;
+    border-radius: 5px;
+    padding: 12px;
+}
+
+.form-group input {
+
+
+    display: block;
+    width: 100%;
+    padding: 1px;
+    border: 2px solid black;
+    margin-top: 14px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.form-group h1 {
+    text-align: center;
+}
+
+.sec-c button {
+    display: block;
+
+    margin-top: 23px;
+    width: auto;
+}
+
+.submit:hover {
+    background: linear-gradient(267.35deg, #009FFD 1.9%, #00F190 97.65%);
+}
+
+.Sec-D {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+    padding: 30px 0px;
+    background-color: rgba(0, 0, 0, 0.38);
+}
+
+#des {
+    width: 120%;
+    display: block;
+    color: green;
+}
+
+.cafe {
+    margin-left: 20px;
+}
+
+.mid-d {
+
+    display: flex;
+    align-items: center;
+    width: 80%;
+
+}
+
+.cafe-img img {
+    height: 52px;
+    width: 52px;
+}
+
+.cafe h1 {
+    margin-bottom: -10px;
+
+
+}
+
+.money {
+    width: 20%;
+    text-align: center;
+}
+
+.mainsec-E {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.38);
+
+}
+
+.sec-E {
+
+    width: 80%;
+    margin: auto;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding: 30px 0px;
+    font-size: 1.5rem;
+}
+
+.total {
+    display: none;
+}
+
+.date {
+    display: none;
+}
+
+.amount {
+    display: none;
+}
+#des{
+    width: 100%;
+}
